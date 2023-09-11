@@ -14,7 +14,7 @@ export default function Cadastro() {
       <Image source={Logo} alt="Logo Voll" mt={22} mb={22}/>
 
       <Titulo>
-        Insira alguns dados básicos:
+        Insira alguns dados teste:
       </Titulo>
 
       <Box>
